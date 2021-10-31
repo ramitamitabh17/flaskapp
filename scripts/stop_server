@@ -1,7 +1,6 @@
 #!/bin/bash
-supervisorctl stop
-rm -rf __pycache__/
-rm -rf build/
-rm -rf app.egg-info
-rm -rf dist/
+sudo supervisorctl stop all
+sudo systemctl stop nginx
+rm -rf /home/ubuntu/flaskapp
+
 
