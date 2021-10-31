@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/ubuntu/flaskapp/
+source env/bin/activate
+sudo supervisorctl reload
