@@ -1,0 +1,13 @@
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2021 18:08:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2021 18:08:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2021 18:08:27] "GET /versionz HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2021 18:08:27] "[33mGET /images/icons/gear.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2021 18:08:36] "GET /helloworld HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2021 18:08:46] "GET /helloworld?name=Ramit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2021 18:08:54] "GET /helloworld?name=RamitAMITABH HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
