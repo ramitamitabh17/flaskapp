@@ -6,12 +6,11 @@ phases:
          - python setup.py pytest
 
 artifacts:
-   type: zip
-      files:
-         - 'scripts/**/*'
-         - 'app/**/*.py'
-         - 'appspec.yml'
-         - 'requirements.txt'
-         - 'setup.py
-         - 'run.py'
+   files:
+      - 'scripts/**/*'
+      - 'app/**/*.py'
+      - 'appspec.yml'
+      - 'requirements.txt'
+      - 'setup.py
+      - 'run.py'
 
