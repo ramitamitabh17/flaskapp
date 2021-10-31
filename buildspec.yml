@@ -8,9 +8,10 @@ phases:
 artifacts:
    files:
       - 'scripts/**/*'
+      - 'run.py'
       - 'app/**/*.py'
       - 'appspec.yml'
       - 'requirements.txt'
       - 'setup.py
-      - 'run.py'
+    
 
