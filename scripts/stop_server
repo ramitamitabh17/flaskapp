@@ -1,3 +1,4 @@
 #!/bin/bash
 supervisorctl stop
-rm -rf /home/ubuntu/flaskapp
+deactivate
+
