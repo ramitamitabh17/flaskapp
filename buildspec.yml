@@ -12,6 +12,6 @@ artifacts:
       - 'app/**/*.py'
       - 'appspec.yml'
       - 'requirements.txt'
-      - 'setup.py'
+      
     
 
