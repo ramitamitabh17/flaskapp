@@ -1,4 +1,5 @@
 #!/bin/bash
 cd /home/ubuntu/flaskapp/
+source env/bin/activate
 sudo systemctl start nginx
-sudo supervisorctl reload
+sudo systemctl start supervisor

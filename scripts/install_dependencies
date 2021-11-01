@@ -3,6 +3,6 @@
 cd /home/ubuntu/flaskapp
 python3 -m venv env
 source env/bin/activate
-sudo :wqipip3 install -r requirements.txt
+sudo pip3 install -r requirements.txt
 sudo pip3 install gunicorn
 python setup.py install
