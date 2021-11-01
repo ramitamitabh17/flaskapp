@@ -34,8 +34,8 @@ def helloworld():
 @app.route("/versionz")
 def versionz():
 
-    url = "https://api.github.com/repos/ramitamitabh17/gryphon-task"
-    url1 = "https://api.github.com/repos/ramitamitabh17/gryphon-task/commits/main"
+    url = "https://api.github.com/repos/ramitamitabh17/flaskapp"
+    url1 = "https://api.github.com/repos/ramitamitabh17/flaskapp/commits/main"
 
 
     response = urllib.request.urlopen(url)
